@@ -5,7 +5,7 @@ ABOUT
 
 INSTALL
 
-  Navigate to your user themes folder, then simply clone the repo:
+  Navigate to your user plugins folder, then simply clone the repo:
 
     $ git clone git@github.com:jonpalmisc/themewatch.git
 
